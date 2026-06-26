@@ -27,7 +27,7 @@ Building secure AI systems, cloud security projects, and compliance automation s
 ## 🔴 Red Team Tester SaaS
 A security testing platform designed to validate web applications and security controls.
 
-🔗 https://github.com/TokeATJ/Red-Team-Tester-SAAS
+- 🤖 [Red Team Tester SaaS](https://github.com/TokeATJ/Red-Team-Tester-SAAS)
 
 ---
 
@@ -45,11 +45,10 @@ Implemented:
 ---
 ## 🔐 Secure Applications With Kali
 
-**Kali Linux Administration & File Management**  
-[![Kali Linux Admin](https://img.shields.io/badge/Project-Kali%20Linux%20Admin-blue)](https://github.com/TokeATJ/Kali-Linux-Admin)
 
-**Wireshark Network Traffic Analysis**  
-[![Wireshark Analysis](https://img.shields.io/badge/Project-Wireshark%20Traffic%20Analysis-green)](https://github.com/TokeATJ/Wireshark)
+- 🐉 [Kali Linux Admin / File Management](https://github.com/TokeATJ/Kali-Linux-Admin)
+
+- 🌐 [Wireshark Network Traffic Analysis](https://github.com/TokeATJ/Wireshark)
 
 
 
@@ -58,8 +57,9 @@ Implemented:
 
 ## 🤖 Agentic AI Security Projects
 
-Security-focused AI projects covering:
+WORK IN PROGRESS 
 
+Security-focused AI projects covering:
 - OWASP Agentic AI
 - Prompt Security
 - Secure AI Design
