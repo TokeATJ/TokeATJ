@@ -47,6 +47,8 @@ Implemented:
 
 Kali Linux Admin/File management
   🔗https://github.com/TokeATJ/Kali-Linux-Admin
+Wireshark Network Traffic Analysis
+ 🔗https://github.com/TokeATJ/Wireshark/
 
 
 
