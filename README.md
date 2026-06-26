@@ -45,12 +45,11 @@ Implemented:
 ---
 ## 🔐 Secure Applications With Kali
 
-- File management
-- AC-3 Public Access Controls
-- AU-3 Logging
-- CM-6 Configuration Management
+Kali Linux Admin/File management
+  🔗https://github.com/TokeATJ/Kali-Linux-Admin
 
-🔗https://github.com/TokeATJ/Secure-Applications-With-Kali
+
+
 
 ---
 
