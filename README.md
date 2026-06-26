@@ -12,13 +12,12 @@ Red Team Tesing, cloud security projects, and compliance automation solutions.
 
 ---
 
-# 🚀 Current Focus
+# 🚀 Current Focus/Interests 
 
-- GRC Engineering
+- GRC Engineering / Compliance Engineering
 - Red Team Testing
 - AWS Security & Terraform & Infrastructure as Code
 - Security Automation
-- Compliance Engineering
 - Agentic AI Security
 ---
 
