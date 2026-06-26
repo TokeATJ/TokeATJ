@@ -33,7 +33,7 @@ A security testing platform designed to validate web applications and security c
 
 ## ☁️ AWS Terraform Compliant Infrastructure
 
-🔗 [AWS Building a Compliant Resource](https://github.com/TokeATJ/AWS-Terraform-Building-A-Compliant-Resource)
+ - [AWS Building a Compliant Resource](https://github.com/TokeATJ/AWS-Terraform-Building-A-Compliant-Resource)
 
 
 ---
