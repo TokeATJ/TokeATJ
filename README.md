@@ -45,10 +45,11 @@ Implemented:
 ---
 ## 🔐 Secure Applications With Kali
 
-Kali Linux Admin/File management
-  🔗https://github.com/TokeATJ/Kali-Linux-Admin
-Wireshark Network Traffic Analysis
- 🔗https://github.com/TokeATJ/Wireshark/
+**Kali Linux Administration & File Management**  
+[![Kali Linux Admin](https://img.shields.io/badge/Project-Kali%20Linux%20Admin-blue)](https://github.com/TokeATJ/Kali-Linux-Admin)
+
+**Wireshark Network Traffic Analysis**  
+[![Wireshark Analysis](https://img.shields.io/badge/Project-Wireshark%20Traffic%20Analysis-green)](https://github.com/TokeATJ/Wireshark)
 
 
 
