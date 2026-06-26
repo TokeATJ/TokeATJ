@@ -43,6 +43,19 @@ Implemented:
 🔗 https://github.com/TokeATJ/AWS-Terraform-Building-A-Compliant-Resource
 
 ---
+## ☁️ Secure Applications With Kali
+Public
+
+Implemented:
+
+- SC-28 Encryption at Rest
+- AC-3 Public Access Controls
+- AU-3 Logging
+- CM-6 Configuration Management
+
+🔗https://github.com/TokeATJ/Secure-Applications-With-Kali
+
+---
 
 ## 🤖 Agentic AI Security Projects
 
