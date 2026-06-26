@@ -33,14 +33,8 @@ A security testing platform designed to validate web applications and security c
 
 ## ☁️ AWS Terraform Compliant Infrastructure
 
-Implemented:
+🔗 [AWS Building a Compliant Resource](https://github.com/TokeATJ/AWS-Terraform-Building-A-Compliant-Resource)
 
-- SC-28 Encryption at Rest
-- AC-3 Public Access Controls
-- AU-3 Logging
-- CM-6 Configuration Management
-
-🔗 https://github.com/TokeATJ/AWS-Terraform-Building-A-Compliant-Resource
 
 ---
 ## 🔐 Secure Applications With Kali
