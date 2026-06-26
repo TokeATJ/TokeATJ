@@ -110,7 +110,7 @@ TypeScript
 
 ✅ AWS CCP
 
-✅ Qualys VMDR
+
 
 ---
 
