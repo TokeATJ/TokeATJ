@@ -123,7 +123,4 @@ Email:
 tokeatijosan1@gmail.com
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TokeATJ&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TokeATJ&layout=compact)
 
