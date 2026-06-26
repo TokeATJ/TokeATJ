@@ -57,13 +57,13 @@ WORK IN PROGESS
 
 WORK IN PROGRESS 
 
+- [Agentic AI Security ](https://github.com/TokeATJ/agentic-ai-project-showcase)
+
 Security-focused AI projects covering:
 - OWASP Agentic AI
 - Prompt Security
 - Secure AI Design
 - AI Risk Management
-
-🔗 https://github.com/TokeATJ/agentic-ai-project-showcase
 
 ---
 
