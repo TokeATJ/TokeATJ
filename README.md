@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Toke Atijosan</h1>
 
 <h3 align="center">
-Cybersecurity Analyst | GRC Engineer | Agentic AI Security Engineer
+Cybersecurity Analyst 
 </h3>
 
 <p align="center">
