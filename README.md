@@ -7,7 +7,7 @@ Cybersecurity Analyst
 </h3>
 
 <p align="center">
-Building secure AI systems, cloud security projects, and compliance automation solutions.
+Red Team Tesing, cloud security projects, and compliance automation solutions.
 </p>
 
 ---
@@ -76,7 +76,7 @@ IAM
 S3
 KMS
 
-### Security
+### Security Tools Experience
 
 CrowdStrike
 Tanium
@@ -98,7 +98,7 @@ Audit Readiness
 Python
 PowerShell
 Bash
-TypeScript
+
 
 ---
 
@@ -127,4 +127,3 @@ tokeatijosan1@gmail.com
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TokeATJ&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TokeATJ)
