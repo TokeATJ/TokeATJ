@@ -15,8 +15,8 @@ Building secure AI systems, cloud security projects, and compliance automation s
 # 🚀 Current Focus
 
 - GRC Engineering
-- AWS Security
-- Terraform & Infrastructure as Code
+- Red Team Testing
+- AWS Security & Terraform & Infrastructure as Code
 - Security Automation
 - Compliance Engineering
 - Agentic AI Security
