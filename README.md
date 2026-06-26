@@ -41,9 +41,8 @@ A security testing platform designed to validate web applications and security c
 
 
 - 🐉 [Kali Linux Admin / File Management](https://github.com/TokeATJ/Kali-Linux-Admin)
-
 - 🌐 [Wireshark Network Traffic Analysis](https://github.com/TokeATJ/Wireshark)
-
+- 🔎 [Footprinting](https://github.com/TokeATJ/Footprinting)
 
 
 
