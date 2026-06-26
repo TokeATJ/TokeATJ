@@ -14,13 +14,12 @@ Building secure AI systems, cloud security projects, and compliance automation s
 
 # 🚀 Current Focus
 
-- Agentic AI Security
 - GRC Engineering
 - AWS Security
 - Terraform & Infrastructure as Code
 - Security Automation
 - Compliance Engineering
-
+- Agentic AI Security
 ---
 
 # 🏆 Featured Projects
