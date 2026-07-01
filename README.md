@@ -7,7 +7,7 @@ Cybersecurity Analyst
 </h3>
 
 <p align="center">
-"Digitial Diary" that demonstrates hands on expeeience aligning with skills ive obtained and plan on mastering. 
+"Digitial Diary" that demonstrates hands on experience aligning with skills ive obtained and plan on mastering. 
 </p>
 
 ---
