@@ -47,7 +47,7 @@ WORK IN PROGESS
 - 🐉 [Kali Linux Admin / File Management](https://github.com/TokeATJ/Kali-Linux-Admin)
 - 🌐 [Wireshark Network Traffic Analysis](https://github.com/TokeATJ/Wireshark)
 - 🔎 [Footprinting](https://github.com/TokeATJ/Footprinting)
-
+- 📡 [Port Scanning & Network Reconnaissance Lab](https://github.com/TokeATJ/Port-Scanning)
 
 
 ---
