@@ -7,7 +7,7 @@ Cybersecurity Analyst
 </h3>
 
 <p align="center">
-Red Team Tesing, cloud security projects, and compliance automation solutions.
+Digitial Diary for Things Ive Learned
 </p>
 
 ---
