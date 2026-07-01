@@ -19,6 +19,8 @@ Red Team Tesing, cloud security projects, and compliance automation solutions.
 - AWS Security & Terraform & Infrastructure as Code
 - Security Automation
 - Agentic AI Security
+- Python
+- Windows Builds
 ---
 
 # 🏆 Featured Projects
