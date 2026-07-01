@@ -14,13 +14,13 @@ Cybersecurity Analyst
 
 # 🚀 Current Focus/Interests 
 
+- Threat Hunting
 - GRC Engineering / Compliance Engineering
 - Red Team Testing
 - AWS Security & Terraform & Infrastructure as Code
-- Security Automation
-- Agentic AI Security
+- Security Automation/Agentic AI Security
 - Python
-- Windows Builds
+- Server Builds
 ---
 
 # 🏆 Featured Projects
